@@ -36,7 +36,7 @@ public class AtkinsonEngine implements FuelEngine {
     }
 }
 ```
-
+![uml-srp-bw.png](src/main/resources/uml-srp-bw.png)
 ---
 
 ### 2. Interface Segregation Principle (ISP)
@@ -77,7 +77,7 @@ public interface RefuelableVehicle extends Vehicle {
     int getTankLevel();
 }
 ```
-
+![uml-isp-bw.png](src/main/resources/uml-isp-bw.png)
 ---
 
 ### 3. Dependency Inversion Principle (DIP)
@@ -118,7 +118,7 @@ public class Model3 implements ElectricVehicle {
     }
 }
 ```
-
+![uml-dip-bw.png](src/main/resources/uml-dip-bw.png)
 ---
 
 ## Code Base Mapping
