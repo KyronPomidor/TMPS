@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Lab_2</module>
+        <module>Lab_3</module>
     </modules>
 
     <properties>
