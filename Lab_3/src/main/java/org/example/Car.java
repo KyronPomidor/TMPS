@@ -1,6 +1,5 @@
 package org.example;
 
-// Leaf
 class Car implements GarageItem {
     private final String plate, brand;
     private final double price;
